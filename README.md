@@ -1,4 +1,4 @@
-# Charity_Analysis
+# Neural_Network Charity Analysis
 
 ## Overview
 This project tried to predict whether applicants will be successful if funded by the Alphabet Soup Co. Alphabet Soup Co. wants to provide funding to companies but it needs to know in advance whether it will be successful or not.  
